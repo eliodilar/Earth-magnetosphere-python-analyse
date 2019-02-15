@@ -1,4 +1,9 @@
 # -*-coding:Latin-1 -*
+#Author: Jerome.chapoul@hotmail.com
+# Disponible to create, modifie and use with citations, conformed to GPLv3 Licence.
+#
+#Cordially
+
 
 import os 
 import matplotlib.pyplot as plt
